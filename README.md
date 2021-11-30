@@ -9,3 +9,4 @@ Added some css to style the container and for this i used display flex.
 In javascript i created a variable to store all the divs like an array and then itterate using forEach to add 'active' class on click and created a function to delete last active class.
 
 Hope you enjoy it.
+👉https://gabrielish.github.io/Expanding-Cards/
